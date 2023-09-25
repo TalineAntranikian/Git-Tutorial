@@ -1,2 +1,4 @@
-System.out.println('index.java');
-System.out.println('Version 1');
+public class{
+    System.out.println('index.java');
+    System.out.println('Version 3');
+}
